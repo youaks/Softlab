@@ -1,0 +1,83 @@
+commit 97f5d5d68e83bddf90b0447e77c196ea19776c48
+Author: abhishek <abhisheksinghkm@gmail.com>
+Date:   Tue Mar 21 23:15:23 2023 +0530
+
+    re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..5855e54
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 software enginner
+
+commit 31782c52df7f1780868ce7c5e770eca090ac9146
+Author: abhishek <abhisheksinghkm@gmail.com>
+Date:   Tue Mar 21 23:10:02 2023 +0530
+
+    deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 2d8ee04..f4a430e 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,4 @@
+-abhishek kumar singh computer science and engineering
+\ No newline at end of file
++abhishek kumar singh computer science and engineering
++curry house
++bahubali
++blue
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 5855e54..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 software enginner
+
+commit 177f2a1ffcf3b42b4e53fc8b525f0af5734b0019
+Author: abhishek <abhisheksinghkm@gmail.com>
+Date:   Tue Mar 21 23:06:30 2023 +0530
+
+    my passing year and job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..5855e54
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 software enginner
+
+commit 43c792fea9caca3f8c6237a2cd107828ddc9c135
+Author: abhishek <abhisheksinghkm@gmail.com>
+Date:   Tue Mar 21 22:40:33 2023 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 862f67b..2d8ee04 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-abhishek kumar singh 27669
+\ No newline at end of file
++abhishek kumar singh computer science and engineering
+\ No newline at end of file
+
+commit 18f3d7b0571879d3feccea6f76ff1825e3a9acca
+Author: abhishek <abhisheksinghkm@gmail.com>
+Date:   Tue Mar 21 22:33:08 2023 +0530
+
+    committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..862f67b
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++abhishek kumar singh 27669
+\ No newline at end of file
